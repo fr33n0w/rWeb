@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Runtime data
+*.log
+.lxmf_html_server/
+.lxmf_html_browser/
+~/.lxmf_html_server/
+~/.lxmf_html_browser/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
