@@ -1,0 +1,5 @@
+rns>=0.7.0
+lxmf>=0.4.0
+flask>=2.3.0
+flask-socketio>=5.3.0
+colorama>=0.4.6
